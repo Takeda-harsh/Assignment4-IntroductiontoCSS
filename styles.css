@@ -1,0 +1,18 @@
+.headertext {
+    background-color: blanchedalmond;
+}
+
+ul {
+    border: 1px solid ;
+    padding: 10px;
+}
+
+ul li {
+    color: blue;
+    font-weight: 600;
+}
+
+ul li:hover {
+    color: brown;
+    cursor: pointer;
+}
